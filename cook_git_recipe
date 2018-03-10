@@ -4,3 +4,5 @@ Now adding another line to my repo, thus new changes will need to be staged
 
 Tried committing without staging this file or adding "another_file.txt"
 Does not commit as no changes have been notified to git
+
+After after_death was staged and another modification made, it showed changw with respect to staged file

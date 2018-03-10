@@ -15,3 +15,12 @@ i rm and commited
 i think i removed and when i actually tracked it again, then it accepted my change, had i not tracked it commit would have restored it
 
 Lets try last experiment first with another_reborn
+---> Experiment was failure. Refer to "Observe..." commit message
+
+Exp 1 is now obvious, cancelled conducting it
+
+"EXp" above was wrong, chnaged and corrected it,
+ should show addition and changewhen diff is used but with respect to what?
+ Stgaed change or commited original change?
+
+Ans: Staged commit, also unstaging simply untracked it, text was not reverted
