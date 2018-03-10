@@ -1,0 +1,17 @@
+Now we will add another_file2 and add some text,
+->stage it, call it 1
+->add some more stage again call it 2
+->and then unstage, it should return to end stage of 1 after commiting
+
+--> What might have happened to another_file1??
+
+It was created
+git rm doesn't work if not tracking the file
+staged another_file
+
+Did i commit and then rm OR
+i rm and commited
+
+i think i removed and when i actually tracked it again, then it accepted my change, had i not tracked it commit would have restored it
+
+Lets try last experiment first with another_reborn
