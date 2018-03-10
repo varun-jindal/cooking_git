@@ -1,0 +1,2 @@
+Deleted another_file using rm, but want to unstage this change
+Commit message if delted: Removed another_file with rm, once removed, it is actually deleted, though not commited, still vim is unable to find the file
