@@ -14,3 +14,5 @@ Also "git branch <branch-name> <hash of branch>" makes branch at the point where
 
 |-|----|-|----|-|
      --|-| <-- here is our file
+
+Also git checkout takes you to most recent version of the branch
