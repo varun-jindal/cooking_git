@@ -1,0 +1,6 @@
+Experimenting with checkout
+Need to find way to switch between commits easily instead of through hash
+Also branches have names, so checkout becomes easier
+Checkout goes to state when commit with input hash was made, ie if i now make a branch and do some stuff and checkout <some hash> it should go back in time,
+But this behaviour is then different for branches, it just switches in that case
+also what if i add something while i am checking out some earlier commit?
